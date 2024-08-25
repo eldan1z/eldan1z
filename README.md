@@ -1,0 +1,3 @@
+- 🔭 I’m currently a B.Sc Engineering Management student
+- 🌱 I’m interested in visual SLAM, autonomous navigation, and mobile robots
+- 👯 You can reach me if you are looking for collaboration on the aforementioned topics
